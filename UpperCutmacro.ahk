@@ -19,3 +19,5 @@ while GetKeyState("e", "P")
     sleep 1
 }
 return
+
+;Made by gold ofc
