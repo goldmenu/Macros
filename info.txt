@@ -1,0 +1,8 @@
+GOLD MENU - Macro Manager
+
+This application allows you to download and manage AutoHotkey macros.
+
+New Features:
+No new bro i just released this
+
+Created by Raphaelcsc911 Aka: Gold
