@@ -21,4 +21,6 @@ send {enter up}
 hotkey, 8, off
 sleep %cooldown%
 hotkey, 8, on
+
 return
+; Made by Gold raphaelcsc911
