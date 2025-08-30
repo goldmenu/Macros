@@ -18,3 +18,4 @@ $q::
         Click, right
     }
 return
+; Made by Gold raphaelcsc911
