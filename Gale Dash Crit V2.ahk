@@ -8,4 +8,6 @@
     Sleep, 1250
     SendInput, -
     return
+
 }
+; Made by Gold raphaelcsc911
