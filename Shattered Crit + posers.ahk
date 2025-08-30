@@ -1,6 +1,8 @@
 ﻿R::
-Send, {-}  ; Sends "R" normally
-Send, {Blind}{1}  ; Sends "1" without any modifiers
+Send, {-} 
+Send, {Blind}{1} 
 Sleep, 780
-Send, {Blind}{1}  ; Sends another "1"
+Send, {Blind}{1}  
+
 return
+; Made by Gold raphaelcsc911
