@@ -7,3 +7,4 @@
     Sleep, 1
     Click, Right
     return
+; Made by Gold raphaelcsc911
