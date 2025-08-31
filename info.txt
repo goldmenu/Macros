@@ -8,5 +8,6 @@ Privacy Policy and Terms of Use are available on our website.
 Created by:
 Raphaelcsc911 (aka Gold)
 
-Version: 1.0 
+Version: 1.1
+
 
