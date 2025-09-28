@@ -1,5 +1,9 @@
-$e:: 
-    currentKey := SubStr(A_ThisHotkey, 2)  
+SetKeyDelay, -1
+SetMouseDelay, -1
+SetBatchLines, -1
+
+e:: 
+    currentKey := A_ThisHotkey  ; No SubStr needed unless you use a $
     send {w up}
     while GetKeyState(currentKey, "P")
     {
@@ -17,7 +21,9 @@ $e::
     }
 return
 
+
 ;Made by gold ofc
+
 
 
 
