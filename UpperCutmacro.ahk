@@ -3,7 +3,7 @@ setmousedelay, -1
 setbatchlines, -1
 
 $e:: 
-    currentKey := SubStr(A_ThisHotkey, 2)  ; remove the $ symbol
+    currentKey := SubStr(A_ThisHotkey, 2)  
     send {w up}
     while GetKeyState(currentKey, "P")
     {
@@ -22,6 +22,7 @@ $e::
 return
 
 ;Made by gold ofc
+
 
 
 
