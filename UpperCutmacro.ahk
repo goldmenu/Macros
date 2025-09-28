@@ -1,7 +1,3 @@
-﻿setkeydelay, -1
-setmousedelay, -1
-setbatchlines, -1
-
 $e:: 
     currentKey := SubStr(A_ThisHotkey, 2)  
     send {w up}
@@ -22,6 +18,7 @@ $e::
 return
 
 ;Made by gold ofc
+
 
 
 
