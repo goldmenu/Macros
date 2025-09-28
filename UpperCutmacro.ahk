@@ -4,9 +4,10 @@ setbatchlines, -1
 
 loopKey := "e"  
 
-$e::
+$e:: 
+    currentKey := SubStr(A_ThisHotkey, 2)  ; remove the $ symbol
     send {w up}
-    while GetKeyState(loopKey, "P")
+    while GetKeyState(currentKey, "P")
     {
         send {rbutton down}
         sleep 1
@@ -23,4 +24,5 @@ $e::
 return
 
 ;Made by gold ofc
+
 
