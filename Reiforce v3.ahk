@@ -2,16 +2,21 @@ SetKeyDelay, -1
 SetMouseDelay, -1
 SetBatchLines, -1
 
+
 2::
-    keyPressed := A_ThisHotkey
-    ; If A_ThisHotkey has a $, remove it
-    if SubStr(keyPressed,1,1) = "$"
-        keyPressed := SubStr(keyPressed,2)
+    keyPressed := A_ThisHotkey 
     
-    Send, {%keyPressed% up}
-    Sleep, 3
+    Hotkey, %A_ThisHotkey%, Off
+
     SendInput, %keyPressed%
-    Sleep, 0
-    SendInput, f
+    Sleep, 3
+
+    SendInput, {f down}
+    Sleep, 6
+    SendInput, {f up}
+
+
+    Hotkey, %A_ThisHotkey%, On
 return
+
 ; Made by Gold raphaelcsc911
