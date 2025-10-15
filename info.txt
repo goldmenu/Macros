@@ -2,13 +2,14 @@ GOLD MENU – Macro Manager
 
 This application allows you to easily download, organize, and manage Gold macros.
 Website:
-https://raphaelcsc911.github.io
+https://goldmenu.github.io/
 Legal:
 Privacy Policy and Terms of Use are available on our website.
 Created by:
 Raphaelcsc911 (aka Gold)
 
-Version: 1.5
+Version: 2.0
+
 
 
 
