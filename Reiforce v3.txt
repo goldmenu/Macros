@@ -1,0 +1,2 @@
+This macro automatically triggers your green Reinforce for you — no need to waste time thinking about pressing F manually.
+Just set the keybind to match your Reinforce slot key in-game.
