@@ -1,7 +1,2 @@
-New UI KINDA LAGGY TTHO
-New themes Make Sure To Check it out
-Gold Menu V2.0 FINALY
-I AM MAKING THE TUTORIALS FOR ALLOT OF THINGS 
-Reinforce v3 launched ( now itt actually works with gold menu )
-Reinforce macro tutorial launched
-Updated m1 macro(it was too fast for ahk toi breath)  and updated its tutorial
+New Key,
+Pls report any bugs in suport tickets btw we are aware of the lag we will change that in v2.5
